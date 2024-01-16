@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/kiki's delivery service neko.jpg
 title: "kiki's project"
 date: 2024-01-16
 published: true
