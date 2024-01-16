@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kiana Tangonan",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/kianatangonan.png",
+    "email": "kianakt9@hawaii.edu",
+    "phone": "808-799-5935",
+    "website": "https://kian4h.github.io/",
+    "summary": "I am studying for a B.A. in Management Information Systems at the University of Hawaii at Manoa. I expect to graduate in Spring 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kian4h", "url": "http://github.com/kian4h" },
+      { "network": "linkedin", "username": "kian4h", "url": "http://linkedin.com/in/kian4h" },
+      { "network": "twitter", "username": "kian4h", "url": "http://twitter.com/kian4h" },
+      { "network": "instagram", "username": "kian4h", "url": "http://instagram.com/kian4h" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Photography" },
+    { "name": "Video Games" },
+    { "name": "Family" },
+    { "name": "Reading" },
+    { "name": "Editing" }
   ],
   "skills": [
     {
