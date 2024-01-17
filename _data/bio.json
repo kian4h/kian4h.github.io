@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Kiana Tangonan",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://github.com/kianatangonan.png",
-    "email": "kianakt9@hawaii.edu",
-    "phone": "808-799-5935",
-    "website": "https://kian4h.github.io/",
-    "summary": "I am studying for a B.A. in Management Information Systems at the University of Hawaii at Manoa. I expect to graduate in Spring 2025.",
+    "picture": "https://github.com/kambergjohnson.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "kian4h", "url": "http://github.com/kian4h" },
-      { "network": "linkedin", "username": "kian4h", "url": "http://linkedin.com/in/kian4h" },
-      { "network": "twitter", "username": "kian4h", "url": "http://twitter.com/kian4h" },
-      { "network": "instagram", "username": "kian4h", "url": "http://instagram.com/kian4h" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Photography" },
-    { "name": "Video Games" },
-    { "name": "Family" },
-    { "name": "Reading" },
-    { "name": "Editing" }
+    { "name": "Interactive media" },
+    { "name": "Neuromorphic Computing" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
   ],
   "skills": [
     {
-      "name": "Language",
-      "keywords": [ "Japanese" ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Microsoft", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2025)",
-      "studyType": "B.A.",
-      "startDate": "2021-03-09",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,44 +45,74 @@
   ],
   "work": [
     {
-      "company": "Robata Jinya",
-      "position": "Server",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2023-08-16",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Provide wine and sake service, Demonstrate in-depth knowledge of 40+ food items and 20+ alcoholic beverages",
-        "Manage Tables and provide attentive service to 50+ customers per shift, resulting in customer satisfaction"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "YogurStory",
-      "position": "Server & Barista",
-      "website": "",
-      "startDate": "2022-06-01",
-      "endDate": "2023-11-12",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Demonstrate in-depth menu knowledge, memorize 30+ items for personalized recommendations",
-        "Craft drinks for 100+ customers per shift to ensure customer satisfaction" ,
-        "Manage 100+ customers, provided attentive service while overseeing 14+ tables every shift"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Beta Beta Gamma Sorority",
-      "website": "http://betabetagamma.com/",
-      "position": "Historian",
-      "startDate": "2021-08-18",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Executive Board Member",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Manage the sororities social media and in charge of promotion/advertisement, resulting in 20 new members to our current membership",
-        "Advocate for our sororities mission and core values, which are Leadership, Community, Knowledge, & Sisterhood",
-        "Collaborate with executive board members to create 4-5 posts and reels each week, using Canva or Adobe Softwares",
-        "Take and edit 200+ digital photos for the sorority per every social event, fundraiser, and community service event"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
- ],
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
