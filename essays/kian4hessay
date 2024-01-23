@@ -2,12 +2,13 @@
 layout: essay
 type: essay
 title: "Why I chose MIS"
-date: 2024-01-16
+# All dates must be YYYY-MM-DD format!
+date: 2024-01-023
 published: true
 labels:
-  - Why MIS
+  - MIS
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-Hi, my name is Kiana Tangonan and I decided to major in MIS in order to gain in-depth knowledge about technology within business. I hope to effeciently apply all that I've learned within my Mmajor and to continue improving outside of it as well. 
+I chose MIS to gain in-depth knowledge in technology within business. I hope to continue to learn through outside experiences and showcase my skills effectively. 
